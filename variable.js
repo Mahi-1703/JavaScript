@@ -11,7 +11,7 @@ country ="India";
  id ="4321";
  email="nielitchennai@gmail.com";
  password="1234";
-// country="USA";//
+country="USA";//
   console.table([id,email,password,country]);
 //scope
 {
