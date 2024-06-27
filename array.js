@@ -34,7 +34,7 @@ const finalTopic = topic1.concat(topic2)
 console.log(finalTopic);
 let number = [[1,2],[3,4],[5,6]]
 let num2 = number.flat();
-console.log(num2);//
+console.log(num2);
 
 //slice and  splice//
 let arr = [1,2,3,4,5,6,7,8,9,10];
